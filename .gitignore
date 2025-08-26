@@ -1,3 +1,5 @@
 .env
 .crossnote/
 .DS_Store
+*.txt
+*.csv

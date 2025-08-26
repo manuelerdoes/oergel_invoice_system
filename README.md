@@ -33,7 +33,7 @@ create a .env file and set your API key there as such:
 
 ## Example csv file
 
-Beschreibung,Minuten,Betrag
+Beschreibung,Minuten,Betrag<br>
 Testverrechnung,0.5,1
 
 The first line is important and needs to be exactly these words.
