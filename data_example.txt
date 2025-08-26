@@ -1,0 +1,52 @@
+[client name]
+Fiction_Firm
+
+[sender]
+Max Muster<br>
+Fantasiestrasse 77<br>
+8000 Zürich<br><br>
++41 00 000 00 00<br>
+name@email.ch<br>
+webseite.ch<br>
+
+[receiver]
+Fiction Firm AG<br>
+Frau Anna Müller<br>
+Fifistrasse 1<br>
+8000 Zürich<br>
+
+[greeting]
+Sehr geehrte Frau Müller
+
+[sender name]
+Max Muster
+
+[invoice creditor iban]
+CH00000000000000000
+
+[invoice creditor name]
+Max Muster
+
+[invoice creditor address 1]
+Fantasiestrasse 77
+
+[invoice creditor address 2]
+8000 Zürich
+
+[invoice debitor name]
+Fiction Firm AG
+
+[invoice debitor address 1]
+Fifistrasse 1
+
+[invoice debitor address 2]
+8000 Zürich
+
+[target directory]
+/Users/max/targetfolder
+
+[invoice amount]
+550.00
+
+[invoice number]
+0000000
